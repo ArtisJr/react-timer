@@ -17,7 +17,7 @@ var Navigation = () => {
       </div>
       <div className="top-bar-right">
         <ul className="menu">
-          <li className="menu-text">Created by <a href="https://github.com/AWorldSoCole" target="_blank">Artis Coleman</a></li>
+          <li className="menu-text">Created by <a href="https://github.com/ArtisJr" target="_blank">Artis Coleman</a></li>
         </ul>
       </div>
     </div>
